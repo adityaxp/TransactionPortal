@@ -1,6 +1,5 @@
 /*
 * Transaction Portal Using Swing JFrame and MySQL Database
-* Coded By Aditya
 * Created By Aditya on 25/11/2020
 * Github - https://github.com/adityaxp/TransactionPortal.git
 * */
